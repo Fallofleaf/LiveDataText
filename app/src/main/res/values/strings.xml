@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LiveDataText</string>
+    <string name="description">description</string>
+    <string name="textview">TextView</string>
+</resources>
